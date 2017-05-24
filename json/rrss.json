@@ -1,0 +1,88 @@
+{
+	"data": [
+		{
+			"name": "Facebook",
+			"regex": "facebook."
+		},
+		{
+			"name": "LinkedIn",
+			"regex": "(linkedin|lnkd).in"
+		},
+		{
+			"name": "Blogger",
+			"regex": "(blogger.|.blogspot)"
+		},
+		{
+			"name": "Google+",
+			"regex": "(plus.url.google.|plus.google.)"
+		},
+		{
+			"name": "WordPress",
+			"regex": "wordpress."
+		},
+		{
+			"name": "goo.gl",
+			"regex": "goo.gl"
+		},
+		{
+			"name": "Pinterest",
+			"regex": "pinterest."
+		},
+		{
+			"name": "Tuenti",
+			"regex": "tuenti."
+		},
+		{
+			"name": "Delicious",
+			"regex": "delicious."
+		},
+		{
+			"name": "bitly",
+			"regex": "bit.ly"
+		},
+		{
+			"name": "Facebook Apps",
+			"regex": "apps.facebook."
+		},
+		{
+			"name": "Twitter",
+			"regex": "(twitter.|^t.co)"
+		},
+		{
+			"name": "YouTube",
+			"regex": "youtube."
+		},
+		{
+			"name": "HootSuite",
+			"regex": "hootsuite."
+		},
+		{
+			"name": "Netvibes",
+			"regex": "netvibes."
+		},
+		{
+			"name": "Pocket",
+			"regex": "getpocket."
+		},
+		{
+			"name": "TripAdvisor",
+			"regex": "tripadvisor."
+		},
+		{
+			"name": "meneame",
+			"regex": "meneame."
+		},
+		{
+			"name": "reddit",
+			"regex": "reddit."
+		},
+		{
+			"name": "tinyURL",
+			"regex": "tinyurl."
+		},
+		{
+			"name": "Instagram",
+			"regex": "instagram."
+		}
+	]
+}

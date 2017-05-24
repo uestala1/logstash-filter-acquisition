@@ -1,0 +1,229 @@
+{
+	"data": [
+		{
+			"name": "daum",
+			"referer": "q",
+			"pagination": null
+		},
+		{
+			"name": "eniro",
+			"referer": "search_word",
+			"pagination": null
+		},
+		{
+			"name": "naver",
+			"referer": "query",
+			"pagination": null
+		},
+		{
+			"name": "google",
+			"referer": "q",
+			"pagination": "start"
+		},
+		{
+			"name": "yahoo",
+			"referer": "p",
+			"pagination": "b"
+		},
+		{
+			"name": "msn",
+			"referer": "q",
+			"pagination": "first"
+		},
+		{
+			"name": "bing",
+			"referer": "q",
+			"pagination": "first"
+		},
+		{
+			"name": "aol",
+			"referer": "q",
+			"pagination": "page"
+		},
+		{
+			"name": "lycos",
+			"referer": "query",
+			"pagination": "page2"
+		},
+		{
+			"name": "ask",
+			"referer": "q",
+			"pagination": "page"
+		},
+		{
+			"name": "altavista",
+			"referer": "p",
+			"pagination": "b"
+		},
+		{
+			"name": "netscape",
+			"referer": "q",
+			"pagination": "page"
+		},
+		{
+			"name": "cnn",
+			"referer": "query",
+			"pagination": null
+		},
+		{
+			"name": "about",
+			"referer": "q",
+			"pagination": "pg"
+		},
+		{
+			"name": "mamma",
+			"referer": "q",
+			"pagination": null
+		},
+		{
+			"name": "alltheweb",
+			"referer": "q",
+			"pagination": "b"
+		},
+		{
+			"name": "voila",
+			"referer": "rdata",
+			"pagination": null
+		},
+		{
+			"name": "virgilio",
+			"referer": "qs",
+			"pagination": "offset"
+		},
+		{
+			"name": "baidu",
+			"referer": "wd",
+			"pagination": "pn"
+		},
+		{
+			"name": "alice",
+			"referer": "qs",
+			"pagination": null
+		},
+		{
+			"name": "yandex",
+			"referer": "text",
+			"pagination": "p"
+		},
+		{
+			"name": "najdi",
+			"referer": "query",
+			"pagination": null
+		},
+		{
+			"name": "seznam",
+			"referer": "q",
+			"pagination": "from"
+		},
+		{
+			"name": "search",
+			"referer": "q",
+			"pagination": null
+		},
+		{
+			"name": "wp",
+			"referer": "szukaj",
+			"pagination": "offset"
+		},
+		{
+			"name": "onetonline",
+			"referer": "s",
+			"pagination": null
+		},
+		{
+			"name": "szukacz",
+			"referer": "q",
+			"pagination": "start"
+		},
+		{
+			"name": "yam",
+			"referer": "k",
+			"pagination": null
+		},
+		{
+			"name": "pchome",
+			"referer": "wd",
+			"pagination": "page"
+		},
+		{
+			"name": "kvasir",
+			"referer": "q",
+			"pagination": "offset"
+		},
+		{
+			"name": "sesam",
+			"referer": "q",
+			"pagination": null
+		},
+		{
+			"name": "ozu",
+			"referer": "q",
+			"pagination": null
+		},
+		{
+			"name": "terra",
+			"referer": "query",
+			"pagination": null
+		},
+		{
+			"name": "mynet",
+			"referer": "q",
+			"pagination": null
+		},
+		{
+			"name": "ekolay",
+			"referer": "q",
+			"pagination": null
+		},
+		{
+			"name": "najdi",
+			"referer": "query",
+			"pagination": null
+		},
+		{
+			"name": "rambler",
+			"referer": "query",
+			"pagination": "page"
+		},
+		{
+			"name": "youtube",
+			"referer": "q",
+			"pagination": "page"
+		},
+		{
+			"name": "search.babylon",
+			"referer": "q",
+			"pagination": "start"
+		},
+		{
+			"name": "search.conduit",
+			"referer": "q",
+			"pagination": "start"
+		},
+		{
+			"name": "whorush",
+			"referer": "1",
+			"pagination": null
+		},
+		{
+			"name": "search-results",
+			"referer": "q",
+			"pagination": "page"
+		},
+		{
+			"name": "search.sweetim",
+			"referer": "q",
+			"pagination": "start"
+		},
+		{
+			"name": "start.facemoods",
+			"referer": "s",
+			"pagination": null
+		},
+		{
+			"name": "search.incredimail.com",
+			"referer": "q",
+			"pagination": "p"
+		}
+	]
+}
